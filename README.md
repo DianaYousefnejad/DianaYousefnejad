@@ -7,12 +7,16 @@ Some past projects include:
 - PCB Optimizer
 - Image Altering Python Script
 - QR Code
+  
 Languages:
 Python, Java, C++, C, JavaScript, SQL, HTML, CSS, R, MATLAB, Haskell, Prolog
+
 Developer Tools:
 Git, Jupyter Notebook, VMware Workstation Pro, Supabase, VS Code, PostgreSQL, MySQL
+
 FrameWorks:
 React Native, React, Node.js
+
 Hobbies:
 Photography, Yoga
 
